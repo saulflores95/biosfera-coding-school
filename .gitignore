@@ -1,0 +1,15 @@
+# Ignore compiled binaries
+*.exe
+*.dll
+
+# Ignore log files
+*.log
+
+# Ignore user-specific settings files
+settings.ini
+
+# Ignore directories
+build/
+node_modules/
+**/node_modules/
+**/build/
