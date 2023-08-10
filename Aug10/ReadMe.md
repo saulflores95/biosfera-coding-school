@@ -14,6 +14,7 @@ Temas
 - [ ] Que es una variable
 - [ ] Que son tipos
 - [ ] Que es una funcion
+- [ ] Ejercicio final
 
 ## Instalar Node.js
 
