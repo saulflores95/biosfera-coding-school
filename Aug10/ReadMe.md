@@ -54,4 +54,15 @@ git@github.com:saulflores95/biosfera-coding-school.git
 cd biosfera-coding-school
 ```
 
+Correr codigo
+
+```
+yarn dev
+
+o
+
+yarn start
+
+```
+
 > Written with [StackEdit](https://stackedit.io/).
