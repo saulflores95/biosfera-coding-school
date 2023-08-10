@@ -33,4 +33,24 @@ yarn --version
 
 https://code.visualstudio.com/
 
+## Descargar repositorio
+
+```
+https://github.com/saulflores95/biosfera-coding-school/tree/main
+```
+
+```
+git clone https://github.com/saulflores95/biosfera-coding-school.git
+```
+
+or
+
+```
+git@github.com:saulflores95/biosfera-coding-school.git
+```
+
+```
+cd biosfera-coding-school
+```
+
 > Written with [StackEdit](https://stackedit.io/).
