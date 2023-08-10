@@ -1,0 +1,14 @@
+{
+	"name": "Aug10",
+	"version": "1.0.0",
+	"description": "Primer clase de coding thursday nights",
+	"main": "index.tsx",
+	"author": "Saul Flores",
+	"license": "MIT",
+	"scripts": {
+		"start": "tsx watch ./index.ts"
+	},
+	"devDependencies": {
+		"tsx": "^3.12.7"
+	}
+}
